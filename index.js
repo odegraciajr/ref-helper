@@ -150,7 +150,7 @@ const grades = [
   { title: 'BVG 1', group: 'BVG', sort: 'E' }
 ];
 
-export default {
+module.exports = {
   categories,
   grades
 }
