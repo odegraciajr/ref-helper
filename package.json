@@ -1,6 +1,6 @@
 {
-  "name": "ref-helper",
-  "version": "1.0.1",
+  "name": "ref-helpers",
+  "version": "1.0.2",
   "description": "some randpom helpers for various projects, mostly object and common helpers.",
   "main": "index.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/odegraciajr/ref-helper.git"
+    "url": "git+https://github.com/odegraciajr/ref-helpers.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/odegraciajr/ref-helper/issues"
+    "url": "https://github.com/odegraciajr/ref-helpers/issues"
   },
-  "homepage": "https://github.com/odegraciajr/ref-helper#readme"
+  "homepage": "https://github.com/odegraciajr/ref-helpers#readme"
 }
