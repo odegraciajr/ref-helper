@@ -1,0 +1,20 @@
+{
+  "name": "ref-helper",
+  "version": "1.0.0",
+  "description": "some randpom helpers for various projects, mostly object and common helpers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odegraciajr/ref-helper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odegraciajr/ref-helper/issues"
+  },
+  "homepage": "https://github.com/odegraciajr/ref-helper#readme"
+}
