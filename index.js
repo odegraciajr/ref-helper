@@ -150,7 +150,27 @@ const grades = [
   { title: 'BVG 1', group: 'BVG', sort: 'E' }
 ];
 
+const graders = [
+  {
+    name: 'PSA',
+    code: 'psa'
+  },
+  {
+    name: 'BGS',
+    code: 'bgs'
+  },
+  {
+    name: 'SGC',
+    code: 'sgc'
+  },
+  {
+    name: 'HGA',
+    code: 'hga'
+  }
+];
+
 module.exports = {
   categories,
-  grades
+  grades,
+  graders
 }
