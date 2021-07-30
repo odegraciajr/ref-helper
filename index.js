@@ -1,4 +1,4 @@
-const category = [
+const categories = [
   {
     type: 213,
     categoryId: '20003',
@@ -151,6 +151,6 @@ const grades = [
 ];
 
 export default {
-  category,
+  categories,
   grades
 }
