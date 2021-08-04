@@ -4,7 +4,9 @@
   "description": "some randpom helpers for various projects, mostly object and common helpers.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lintfix": "eslint ./ --ignore-path .gitignore --fix",
+    "format": "prettier --write \"**/*.+(js)\""
   },
   "repository": {
     "type": "git",
@@ -16,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/odegraciajr/ref-helpers/issues"
   },
-  "homepage": "https://github.com/odegraciajr/ref-helpers#readme"
+  "homepage": "https://github.com/odegraciajr/ref-helpers#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
+    "prettier": "2.3.2"
+  }
 }
