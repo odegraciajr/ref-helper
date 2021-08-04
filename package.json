@@ -1,6 +1,6 @@
 {
   "name": "ref-helpers",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "some randpom helpers for various projects, mostly object and common helpers.",
   "main": "index.js",
   "scripts": {
