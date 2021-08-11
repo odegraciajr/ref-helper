@@ -6,7 +6,8 @@ const categories = [
     sportsName: 'Baseball',
     sportsId: '185223',
     icon: '⚾️',
-    description: 'Baseball item related'
+    description: 'Baseball item related',
+    ebayCategory: '261328'
   },
   {
     type: 214,
@@ -15,7 +16,8 @@ const categories = [
     sportsName: 'Basketball',
     sportsId: '185226',
     icon: '🏀',
-    description: 'Basketball item related'
+    description: 'Basketball item related',
+    ebayCategory: '261328'
   },
   {
     type: 215,
@@ -24,7 +26,8 @@ const categories = [
     sportsName: 'Football',
     sportsId: '185224',
     icon: '🏈',
-    description: 'Football item related'
+    description: 'Football item related',
+    ebayCategory: '261328'
   },
   {
     type: 216,
@@ -33,7 +36,8 @@ const categories = [
     sportsName: 'Pokemon',
     sportsId: '477173',
     icon: '🐸',
-    description: 'Pokemon item related'
+    description: 'Pokemon item related',
+    ebayCategory: '183454'
   },
   {
     type: 217,
@@ -42,7 +46,8 @@ const categories = [
     sportsName: 'Soccer',
     sportsId: '364957',
     icon: '⚽️',
-    description: 'Soccer item related'
+    description: 'Soccer item related',
+    ebayCategory: '261328'
   },
   {
     type: 218,
@@ -51,7 +56,8 @@ const categories = [
     sportsName: 'Golf',
     sportsId: '186451',
     icon: '⛳️',
-    description: 'Golf item related'
+    description: 'Golf item related',
+    ebayCategory: '261328'
   },
   {
     type: 219,
@@ -60,7 +66,8 @@ const categories = [
     sportsName: 'Hockey',
     sportsId: '185225',
     icon: '🏑',
-    description: 'Hockey item related'
+    description: 'Hockey item related',
+    ebayCategory: '261328'
   }
 ];
 
