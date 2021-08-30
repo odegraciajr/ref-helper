@@ -1,3 +1,5 @@
+const helpers = require('./src/helpers');
+
 const categories = [
   {
     type: 213,
@@ -582,5 +584,6 @@ const graders = [
 module.exports = {
   categories,
   grades,
-  graders
+  graders,
+  helpers
 };
