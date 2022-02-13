@@ -35,10 +35,10 @@ const categories = [
     type: 216,
     categoryId: '156940',
     categoryName: 'tcg-cards',
-    sportsName: 'Pokemon',
+    sportsName: 'TCG',
     sportsId: '477173',
     icon: '🐸',
-    description: 'Pokemon item related',
+    description: 'Trading card game related cards',
     ebayCategory: '183454'
   },
   {
